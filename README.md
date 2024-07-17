@@ -1,5 +1,5 @@
 # CompTIA-Notes
-This repo hopefully helps everyone with their CompTIA Training or learning.
+This hopefully helps everyone with their CompTIA Training or learning.
 
 <details>
 <summary> CompTIA Cloud Essentials+ </summary>
