@@ -1,11 +1,8 @@
 # CompTIA-Notes
 This repo hopefully helps everyone with their CompTIA Training or learning.
 
-# CompTIA Cloud Essentials+
-
-# CompTIA A+
 <details>
-<summary> 1101 </summary>
+<summary> CompTIA Cloud Essentials+ </summary>
 
 Content of your dropdown goes here.
 - You can list items
@@ -15,7 +12,7 @@ Content of your dropdown goes here.
 </details>
 
 <details>
-<summary> 1102 </summary>
+<summary> CompTIA A+ 1101 </summary>
 
 Content of your dropdown goes here.
 - You can list items
@@ -24,8 +21,42 @@ Content of your dropdown goes here.
 
 </details>
 
-# CompTIA Network+
+<details>
+<summary> CompTIA A+ 1102 </summary>
 
-# CompTIA Security+
+Content of your dropdown goes here.
+- You can list items
+- Format text
+- Add links, images, etc. [here](docs/getting-started.md)
 
-# CompTIA Pentest+
+</details>
+
+<details>
+<summary> CompTIA Network+ </summary>
+
+Content of your dropdown goes here.
+- You can list items
+- Format text
+- Add links, images, etc. [here](docs/getting-started.md)
+
+</details>
+
+<details>
+<summary> CompTIA Security+ </summary>
+
+Content of your dropdown goes here.
+- You can list items
+- Format text
+- Add links, images, etc. [here](docs/getting-started.md)
+
+</details>
+
+<details>
+<summary> CompTIA Pentest+ </summary>
+
+Content of your dropdown goes here.
+- You can list items
+- Format text
+- Add links, images, etc. [here](docs/getting-started.md)
+
+</details>
