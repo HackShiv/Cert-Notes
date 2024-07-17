@@ -2,8 +2,10 @@
 This repo hopefully helps everyone with their CompTIA Training or learning.
 
 # CompTIA Cloud Essentials+
+
+# CompTIA A+
 <details>
-<summary> Cloud Essentials+ </summary>
+<summary> 1101 </summary>
 
 Content of your dropdown goes here.
 - You can list items
@@ -12,9 +14,8 @@ Content of your dropdown goes here.
 
 </details>
 
-# CompTIA A+
 <details>
-<summary> Cloud Essentials+ </summary>
+<summary> 1102 </summary>
 
 Content of your dropdown goes here.
 - You can list items
