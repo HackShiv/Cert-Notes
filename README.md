@@ -1,5 +1,5 @@
 # CompTIA-Notes
-My raw notes and practice questions for CompTIA (To Who it may help) 🙏
+Raw notes and practice questions for CompTIA
 
 For those interested in the note-taking app. Check out Notally from OmGodse (FOSS and privacy focused for Android) >> https://github.com/OmGodse/Notally
 
